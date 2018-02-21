@@ -1,0 +1,6 @@
+{
+    "presets": [["env", {"targets": {"node": "current"}}]],
+    "sourceMaps": true,
+    "retainLines": true,
+    "plugins": ["transform-async-to-generator"]
+}
